@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Data.Police.UK</string>
+    <string name="no_crimes">No crimes to report!</string>
+    <string name="try_again">Try Again?</string>
+    <string name="network_error">Network Error</string>
+    <string name="category">Category:</string>
+    <string name="persistent_id">Persistent ID:</string>
+    <string name="location_subtype">Location Subtype:</string>
+    <string name="id">id:</string>
+    <string name="location">Location:</string>
+    <string name="context">context:</string>
+    <string name="month">month:</string>
+    <string name="location_type">Location type:</string>
+    <string name="outcome_category">outcome category:</string>
+    <string name="outcome_date">outcome date:</string>
+</resources>
